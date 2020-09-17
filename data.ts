@@ -1,0 +1,1 @@
+export const locations = ["london", "las vegas", "las santos", "la grande"];
